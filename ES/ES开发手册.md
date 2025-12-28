@@ -428,7 +428,7 @@ GET /my-index-000001/_search?track_total_hits=true
 
 **更多API参考文档**: https://www.elastic.co/guide/en/elasticsearch/reference/7.17/search.html
 
-# 五、聚合
+# 五、聚合API
 
 **这里只介绍简单的，无需做计算的聚合。**
 
